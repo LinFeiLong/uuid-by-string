@@ -38,8 +38,8 @@
     ]
   },
   "dependencies": {
-    "js-md5": "^0.7.3",
-    "js-sha1": "^0.6.0"
+    "js-md5": "git://github.com/LinFeiLong/js-md5.git",
+    "js-sha1": "git://github.com/LinFeiLong/js-sha1.git"
   },
   "devDependencies": {
     "jest": "^24.8.0"
